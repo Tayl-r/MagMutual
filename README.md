@@ -5,6 +5,8 @@ Main2.java displays the information onto a simple GUI.
 
 https://github.com/typicode/json-server
 
+"json-server --watch db.json" to activate server
+
 This is the contents of the db.json file.
 
 {
