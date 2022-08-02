@@ -1,7 +1,6 @@
 # MagMutual
 
-This is the link to the JSON server used to have the codes run. I have implemented it in 2 different ways separated by each "Main" files. 
-Main2.java displays the information onto a simple GUI.
+This is the link to the JSON server used to have the code run.
 
 https://github.com/typicode/json-server
 
