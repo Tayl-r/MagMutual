@@ -1,0 +1,6 @@
+{
+	"profile":
+		{"username": "jdoe", "name": "John Doe", "address": {"street1": "123 example st", "street2": null, "city": "nowhere", "state": "KS", "zip-code": "12345"}}
+	
+	
+}
